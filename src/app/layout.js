@@ -11,7 +11,7 @@ const roboto = robotoFont({
 });
 
 export const metadata = {
-  title: 'Next 14 setup',
+  title: 'Next.js 14 setup',
 };
 
 export default function RootLayout({ children }) {
