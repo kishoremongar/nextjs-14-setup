@@ -1,6 +1,6 @@
 # Next App Setup
 
-This setup uses pre-commit hook with the help of husky to run lint and test before committing. Also additionally commitlint is used to check commit message.
+This setup is for Next 14 app router and uses pre-commit hook with the help of husky to run lint and test before committing. Also additionally commitlint is used to check commit message.
 
 # Run `npm install` to install dependencies
 
